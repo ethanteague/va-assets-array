@@ -1,0 +1,251 @@
+{
+  "data": {
+    "nodeQuery": {
+      "entities": [
+        {},
+        {},
+        {},
+        {},
+        {
+          "type": {
+            "targetId": "outreach_asset"
+          },
+          "entityId": "80",
+          "title": {
+            "name": "axcsd452ksey"
+          },
+          "entityBundle": "outreach_asset",
+          "status": false,
+          "changed": 1549566272,
+          "fieldFormat": "document",
+          "fieldBenefits": [],
+          "fieldDescription": "Example document summary",
+          "fieldMedia": {
+            "entity": {
+              "entityType": "media",
+              "entityUrl": {
+                "path": "/media/10",
+                "routed": true
+              },
+              "fieldDocument": {
+                "entity": {
+                  "url": "http://vagovcms.lndo.site/sites/default/files/2019-02/VA.gov-outreach-library-2019-01-30-jl.pdf"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": {
+            "targetId": "outreach_asset"
+          },
+          "entityId": "82",
+          "title": {
+            "name": "axcsd452ksey"
+          },
+          "entityBundle": "outreach_asset",
+          "status": false,
+          "changed": 1549566741,
+          "fieldFormat": "video",
+          "fieldBenefits": [],
+          "fieldDescription": "Example video summary",
+          "fieldMedia": {
+            "entity": {
+              "fieldMediaVideoEmbedField": "https://www.youtube.com/watch?v=YqvZ2nJVrpU"
+            }
+          }
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "type": {
+            "targetId": "outreach_asset"
+          },
+          "entityId": "81",
+          "title": {
+            "name": "axcsd452ksey"
+          },
+          "entityBundle": "outreach_asset",
+          "status": true,
+          "changed": 1556408426,
+          "fieldFormat": "social_share",
+          "fieldBenefits": [
+            "general"
+          ],
+          "fieldDescription": "This is an image asset",
+          "fieldMedia": {
+            "entity": {
+              "entityType": "media",
+              "image": {
+                "url": "http://vagovcms.lndo.site/sites/default/files/2019-02/Vets_istock_photo.jpg"
+              }
+            }
+          }
+        },
+        {
+          "type": {
+            "targetId": "outreach_asset"
+          },
+          "entityId": "300",
+          "title": {
+            "name": "axcsd452ksey"
+          },
+          "entityBundle": "outreach_asset",
+          "status": true,
+          "changed": 1556472564,
+          "fieldFormat": "social_share",
+          "fieldBenefits": [
+            "housing",
+            "insurance"
+          ],
+          "fieldDescription": "This is a descriptor",
+          "fieldMedia": {
+            "entity": {
+              "entityType": "media",
+              "image": {
+                "url": "http://vagovcms.lndo.site/sites/default/files/2019-04/2.1%20Topica.png"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
