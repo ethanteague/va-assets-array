@@ -10,6 +10,7 @@
           "entityId": "80",
           "status": false,
           "changed": 1549566272,
+          "title": "Example document asset",
           "fieldFormat": "document",
           "fieldBenefits": [],
           "fieldDescription": "Example document summary",
@@ -33,6 +34,7 @@
           "entityId": "82",
           "status": false,
           "changed": 1549566741,
+          "title": "Example video",
           "fieldFormat": "video",
           "fieldBenefits": [],
           "fieldDescription": "Example video summary",
@@ -186,6 +188,7 @@
           "entityId": "81",
           "status": true,
           "changed": 1556408426,
+          "title": "Example image asset",
           "fieldFormat": "social_share",
           "fieldBenefits": [
             "general"
@@ -205,6 +208,7 @@
           "entityId": "300",
           "status": true,
           "changed": 1556472564,
+          "title": "ET picture",
           "fieldFormat": "social_share",
           "fieldBenefits": [
             "housing",
