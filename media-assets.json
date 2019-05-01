@@ -8,7 +8,10 @@
           "status": false,
           "changed": 1549566272,
           "fieldFormat": "document",
-          "fieldBenefits": [],
+          "fieldBenefits": [
+            "housing",
+            "insurance"
+          ],
           "fieldDescription": "Overview of education and training benefits for Veterans and their families.",
           "fieldMedia": {
             "entity": {
