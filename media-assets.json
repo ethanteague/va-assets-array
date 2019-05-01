@@ -4,7 +4,7 @@
       "entities": [
         {
           "entityId": "80",
-          "title": "Explore VA | Education & Training",
+          "title": "Tax-free disability benefits",
           "status": false,
           "changed": 1549566272,
           "fieldFormat": "document",
@@ -12,7 +12,7 @@
             "housing",
             "insurance"
           ],
-          "fieldDescription": "Overview of education and training benefits for Veterans and their families.",
+          "fieldDescription": "Did you know...Veterans with a disability may be eligible for monthly benefitss.",
           "fieldMedia": {
             "entity": {
               "entityBundle": "document",
